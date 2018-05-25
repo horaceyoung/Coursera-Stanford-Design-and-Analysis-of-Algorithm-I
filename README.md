@@ -5,9 +5,9 @@
   The content is arranged in the order of the original course's order. Each Subunit is contained in the corresponding unit's folder.
 
 ## Completed Sectors
-  1.Divide and Conquer, Sorting and Searching, and Randomnized Algorithms
-  1.1.1 Introduction
-  1.1.2 Asymptotic analysis
+  ### 1.Divide and Conquer, Sorting and Searching, and Randomnized Algorithms   
+  1.1.1 Introduction   
+  1.1.2 Asymptotic analysis   
  
 ## Acknowledgements
   The content and related screenshots' copyrights are reserved for Stanford University and Coursera. No content has been put to commerial use.
