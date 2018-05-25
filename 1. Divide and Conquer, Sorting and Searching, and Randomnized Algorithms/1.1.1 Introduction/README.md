@@ -5,7 +5,7 @@ The process is simple: we take the least significant digit of the multiplier, mu
 We shift the multiplier digit to the left by one digit and perform the same process for all digits of the multiplier. In the end the operations in total is proportional to n^2.  
 But we have better alternatives and here is one: the Karatsuba Multiplication.  
 
-![](images/Karatsuba.png)
+![](Karatsuba.png)
 
 ## Expanation
 The process is as following:  
@@ -20,4 +20,4 @@ then we do the following:
 
 x*y = 10^n * ac + 10^(n/2)(ad+bc) + bd  
 
-![](images/Kratsuba2.png)
+![](Kratsuba2.png)
