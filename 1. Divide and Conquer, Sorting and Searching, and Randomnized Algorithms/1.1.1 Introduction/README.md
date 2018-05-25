@@ -20,4 +20,4 @@ then we do the following:
 
 x*y = 10^n * ac + 10^(n/2)(ad+bc) + bd  
 
-![](Kratsuba2.png)
+![](Karatsuba2.png)
