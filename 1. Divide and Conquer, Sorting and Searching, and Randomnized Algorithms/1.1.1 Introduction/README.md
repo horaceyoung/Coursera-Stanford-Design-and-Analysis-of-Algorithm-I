@@ -7,7 +7,7 @@ But we have better alternatives and here is one: the Karatsuba Multiplication.
 
 ![](Karatsuba.png)
 
-## Expanation
+## Explanation
 The process is as following:  
 Firstly we split the multiplier and multiplicand into half each, (e.g. 1234 into 12 and 34, if is an odd-digit number like 12345, we can split it into 123 and 45), name them a, b, c, and d respectively:  
 x = 10^(n/2)*a +b, y = 10^(n/2)c+d  
@@ -20,4 +20,15 @@ then we do the following:
 
 x*y = 10^n * ac + 10^(n/2)(ad+bc) + bd  
 
-![](Karatsuba2.png)
+![](Karatsuba2.png)  
+
+## Guiding Principles for analysis of algorithms
+1. "Worse - case analysis" : our running time bound holds for every input of length n.
+2. Won't pay much attention to constant factors, lower-order terms.
+	Justification: - Easier
+		       - Heavily dependent on machine and language
+		       - Lose little predictive power
+3. Asymptotic Analysis: focus on running time for large input sizes n.
+
+## A fast Algorithm is imprecisely defined as
+Worst-case running time grows slowly with input size. (We'll see what it means later)
