@@ -1,4 +1,3 @@
-
 def K_M(x, y):
     lenx = len(str(x))
     leny = len(str(7))
