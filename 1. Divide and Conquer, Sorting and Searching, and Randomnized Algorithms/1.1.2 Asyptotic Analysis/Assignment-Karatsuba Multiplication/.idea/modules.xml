@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../1.2.1 Divide and Conquer Algorithms/.idea/1.2.1 Divide and Conquer Algorithms.iml" filepath="$PROJECT_DIR$/../../1.2.1 Divide and Conquer Algorithms/.idea/1.2.1 Divide and Conquer Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Assignment-Karatsuba Multiplication.iml" filepath="$PROJECT_DIR$/.idea/Assignment-Karatsuba Multiplication.iml" />
     </modules>
   </component>
